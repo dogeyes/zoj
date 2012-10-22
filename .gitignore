@@ -4,3 +4,8 @@
 *~
 *.txt
 *.out
+*.class
+*.xml
+*.name
+*.iml
+
